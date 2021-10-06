@@ -11,4 +11,4 @@
     comprimising the security of our Slack repo (and triggering Professor
     Bagrow to go on a tangent and deduct points). 
 """
-API_TOKEN = "API TOKEN WOULD GO HERE"
+API_TOKEN = "xapp-1-A02G9S77F8B-2568878621299-43fcebc1da7ed165845d0bf4b3dca2fdbada1100786087a301e0291621c7bc72"
